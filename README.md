@@ -7,7 +7,7 @@ It also enables to check the geographic locations anywhere all over the world.
 It also facilitates to viewer to zoom in and out of the pages.
 
 # Content:
-* html page
+* html file - maps.html
 * google Maps
  
 # Execution:
