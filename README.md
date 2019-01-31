@@ -10,3 +10,5 @@ It also facilitates to viewer to zoom in and out of the pages.
 * html page
 * google Maps
  
+# Execution:
+The file can be executed by opening it in any web browser with an active internet connection.
